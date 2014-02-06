@@ -1,0 +1,27 @@
+{
+  "name": "squirt",
+  "description": "Math.squirt function",
+  "version": "1.0.0",
+  "author": "Jacob DeHart",
+  "maintainers": [
+    "jacob <jacobd@jacobdehart.com>"
+  ],
+  "homepage": "http://github.com/jacobd/squirt.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jacobd/squirt.js.git"
+  },
+  "main": "./lib/squirt",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/jacobd/squirt.js/blob/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+  },
+  "engines": ["node >=0.5.10"],
+  "keywords": [
+    "Math", "squirt", "gross"
+  ]
+}
